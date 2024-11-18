@@ -12,8 +12,8 @@ npm install
 
 ## How to use
 
-`caching-proxy --port <number> --origin <url>`
+`node index.js --port <number> --origin <url>`
 
 ### Example
 
-`caching-proxy --port 3000 --origin http://dummyjson.com`
+`node index.js --port 3000 --origin http://dummyjson.com`
